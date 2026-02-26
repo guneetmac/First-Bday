@@ -2,7 +2,7 @@
 A custom-built invitation and event dashboard for Raya's 1st Birthday.
 
 ### 🚀 Live Invite
-[Link to your GitHub Pages URL]
+[https://guneetmac.github.io/First-Bday/]
 
 ### ✨ Key Features
 - **Event Countdown:** Built-in timer for guest excitement.
